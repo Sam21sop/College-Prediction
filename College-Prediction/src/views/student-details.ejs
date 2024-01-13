@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Information Form</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>User Information Form</h2>
+
+    <form action="#" method="post">
+        <label for="user-name">User Name:</label>
+        <input type="text" id="user-name" name="user-name" required>
+
+        <label for="email-id">Email ID:</label>
+        <input type="email" id="email-id" name="email-id" required>
+
+        <label for="phone-number">Phone Number:</label>
+        <input type="tel" id="phone-number" name="phone-number" required>
+
+        <label for="cet-mark">CET Marks:</label>
+        <input type="number" id="cet-mark" name="cet-mark" required>
+
+        <label for="12th-mark">12th Grade Marks:</label>
+        <input type="number" id="12th-mark" name="12th-mark" required>
+
+        <label for="cast">Caste:</label>
+        <select id="cast" name="cast" required>
+            <option value="general">General</option>
+            <option value="obc">OBC</option>
+            <option value="sc">SC</option>
+            <option value="st">ST</option>
+        </select>
+
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+.main-container{
+    background-image: url('../../Public/backGroundImg.jpg');
+    height: 80vh;
+    padding: 50px 0; 
+    overflow-y: auto;
+}
+
+#main-section{
+    align-items: center;
+    text-align: center;
+}
+
+
+.buttons button{
+	height: 50px;
+	width: 150px;
+	font-size: 18px;
+	font-weight: 600;
+	color: #000000;
+	/* background: red; */
+	/* background-image: url(bg11.jpeg); */
+    text-decoration: none;
+	outline: none;
+	cursor: pointer;
+	border: 1px solid #cc0000;
+	border-radius: 25px;
+	transition: .4s;
+}

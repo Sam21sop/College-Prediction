@@ -19,7 +19,7 @@ server.set('views', dirPath);
 server.get('/', (req, res) => {
     const data = {
         title: "College Prediction",
-        message: "College For Career"
+        // body: "main"
     };
 
     // render index template
