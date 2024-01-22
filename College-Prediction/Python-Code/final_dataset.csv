@@ -1,0 +1,2501 @@
+sr_number,College_Names,Cutoff
+0,"College of Pharmacy ,Medha",29.45
+1,"MVP Samaj college of pharmacy , Nashik",27.43
+2,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+3,"Rajarambapu college of pharmacy, Kasegaon",24.17
+4,"College of Pharmacy ,Vadgaon",23.87
+5,"Poona college of Pharmacy , Pune",22.47
+6,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+7,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+8,"College of Pharmacy , Paniv",16.78
+9,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+10,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+11,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+12,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+13,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+14,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+15,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+16,"Aditya college of Agriculture , Beed",83.58
+17,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+18,"College of Agriculture , Naigaon Bazar",82.91
+19,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+20,"College of Pharmacy ,Medha",29.45
+21,"MVP Samaj college of pharmacy , Nashik",27.43
+22,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+23,"Rajarambapu college of pharmacy, Kasegaon",24.17
+24,"College of Pharmacy ,Vadgaon",23.87
+25,"Poona college of Pharmacy , Pune",22.47
+26,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+27,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+28,"College of Pharmacy , Paniv",16.78
+29,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+30,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+31,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+32,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+33,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+34,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+35,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+36,"Aditya college of Agriculture , Beed",83.58
+37,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+38,"College of Agriculture , Naigaon Bazar",82.91
+39,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+40,"College of Pharmacy ,Medha",29.45
+41,"MVP Samaj college of pharmacy , Nashik",27.43
+42,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+43,"Rajarambapu college of pharmacy, Kasegaon",24.17
+44,"College of Pharmacy ,Vadgaon",23.87
+45,"Poona college of Pharmacy , Pune",22.47
+46,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+47,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+48,"College of Pharmacy , Paniv",16.78
+49,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+50,"College of Pharmacy ,Medha",29.45
+51,"MVP Samaj college of pharmacy , Nashik",27.43
+52,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+53,"Rajarambapu college of pharmacy, Kasegaon",24.17
+54,"College of Pharmacy ,Vadgaon",23.87
+55,"Poona college of Pharmacy , Pune",22.47
+56,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+57,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+58,"College of Pharmacy , Paniv",16.78
+59,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+60,"College of Pharmacy ,Medha",29.45
+61,"MVP Samaj college of pharmacy , Nashik",27.43
+62,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+63,"Rajarambapu college of pharmacy, Kasegaon",24.17
+64,"College of Pharmacy ,Vadgaon",23.87
+65,"Poona college of Pharmacy , Pune",22.47
+66,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+67,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+68,"College of Pharmacy , Paniv",16.78
+69,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+70,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+71,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+72,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+73,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+74,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+75,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+76,"Aditya college of Agriculture , Beed",83.58
+77,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+78,"College of Agriculture , Naigaon Bazar",82.91
+79,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+80,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+81,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+82,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+83,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+84,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+85,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+86,"Aditya college of Agriculture , Beed",83.58
+87,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+88,"College of Agriculture , Naigaon Bazar",82.91
+89,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+90,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+91,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+92,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+93,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+94,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+95,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+96,"Aditya college of Agriculture , Beed",83.58
+97,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+98,"College of Agriculture , Naigaon Bazar",82.91
+99,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+100,"College of Pharmacy ,Medha",29.45
+101,"MVP Samaj college of pharmacy , Nashik",27.43
+102,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+103,"Rajarambapu college of pharmacy, Kasegaon",24.17
+104,"College of Pharmacy ,Vadgaon",23.87
+105,"Poona college of Pharmacy , Pune",22.47
+106,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+107,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+108,"College of Pharmacy , Paniv",16.78
+109,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+110,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+111,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+112,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+113,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+114,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+115,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+116,"Aditya college of Agriculture , Beed",83.58
+117,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+118,"College of Agriculture , Naigaon Bazar",82.91
+119,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+120,"College of Pharmacy ,Medha",29.45
+121,"MVP Samaj college of pharmacy , Nashik",27.43
+122,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+123,"Rajarambapu college of pharmacy, Kasegaon",24.17
+124,"College of Pharmacy ,Vadgaon",23.87
+125,"Poona college of Pharmacy , Pune",22.47
+126,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+127,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+128,"College of Pharmacy , Paniv",16.78
+129,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+130,"College of Pharmacy ,Medha",29.45
+131,"MVP Samaj college of pharmacy , Nashik",27.43
+132,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+133,"Rajarambapu college of pharmacy, Kasegaon",24.17
+134,"College of Pharmacy ,Vadgaon",23.87
+135,"Poona college of Pharmacy , Pune",22.47
+136,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+137,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+138,"College of Pharmacy , Paniv",16.78
+139,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+140,"College of Pharmacy ,Medha",29.45
+141,"MVP Samaj college of pharmacy , Nashik",27.43
+142,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+143,"Rajarambapu college of pharmacy, Kasegaon",24.17
+144,"College of Pharmacy ,Vadgaon",23.87
+145,"Poona college of Pharmacy , Pune",22.47
+146,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+147,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+148,"College of Pharmacy , Paniv",16.78
+149,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+150,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+151,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+152,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+153,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+154,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+155,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+156,"Aditya college of Agriculture , Beed",83.58
+157,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+158,"College of Agriculture , Naigaon Bazar",82.91
+159,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+160,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+161,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+162,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+163,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+164,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+165,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+166,"Aditya college of Agriculture , Beed",83.58
+167,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+168,"College of Agriculture , Naigaon Bazar",82.91
+169,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+170,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+171,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+172,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+173,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+174,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+175,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+176,"Aditya college of Agriculture , Beed",83.58
+177,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+178,"College of Agriculture , Naigaon Bazar",82.91
+179,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+180,"College of Pharmacy ,Medha",29.45
+181,"MVP Samaj college of pharmacy , Nashik",27.43
+182,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+183,"Rajarambapu college of pharmacy, Kasegaon",24.17
+184,"College of Pharmacy ,Vadgaon",23.87
+185,"Poona college of Pharmacy , Pune",22.47
+186,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+187,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+188,"College of Pharmacy , Paniv",16.78
+189,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+190,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+191,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+192,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+193,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+194,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+195,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+196,"Aditya college of Agriculture , Beed",83.58
+197,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+198,"College of Agriculture , Naigaon Bazar",82.91
+199,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+200,"College of Pharmacy ,Medha",29.45
+201,"MVP Samaj college of pharmacy , Nashik",27.43
+202,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+203,"Rajarambapu college of pharmacy, Kasegaon",24.17
+204,"College of Pharmacy ,Vadgaon",23.87
+205,"Poona college of Pharmacy , Pune",22.47
+206,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+207,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+208,"College of Pharmacy , Paniv",16.78
+209,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+210,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+211,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+212,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+213,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+214,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+215,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+216,"Aditya college of Agriculture , Beed",83.58
+217,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+218,"College of Agriculture , Naigaon Bazar",82.91
+219,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+220,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+221,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+222,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+223,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+224,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+225,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+226,"Aditya college of Agriculture , Beed",83.58
+227,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+228,"College of Agriculture , Naigaon Bazar",82.91
+229,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+230,"College of Pharmacy ,Medha",29.45
+231,"MVP Samaj college of pharmacy , Nashik",27.43
+232,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+233,"Rajarambapu college of pharmacy, Kasegaon",24.17
+234,"College of Pharmacy ,Vadgaon",23.87
+235,"Poona college of Pharmacy , Pune",22.47
+236,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+237,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+238,"College of Pharmacy , Paniv",16.78
+239,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+240,"College of Pharmacy ,Medha",29.45
+241,"MVP Samaj college of pharmacy , Nashik",27.43
+242,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+243,"Rajarambapu college of pharmacy, Kasegaon",24.17
+244,"College of Pharmacy ,Vadgaon",23.87
+245,"Poona college of Pharmacy , Pune",22.47
+246,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+247,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+248,"College of Pharmacy , Paniv",16.78
+249,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+250,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+251,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+252,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+253,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+254,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+255,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+256,"Aditya college of Agriculture , Beed",83.58
+257,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+258,"College of Agriculture , Naigaon Bazar",82.91
+259,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+260,"College of Pharmacy ,Medha",29.45
+261,"MVP Samaj college of pharmacy , Nashik",27.43
+262,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+263,"Rajarambapu college of pharmacy, Kasegaon",24.17
+264,"College of Pharmacy ,Vadgaon",23.87
+265,"Poona college of Pharmacy , Pune",22.47
+266,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+267,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+268,"College of Pharmacy , Paniv",16.78
+269,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+270,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+271,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+272,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+273,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+274,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+275,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+276,"Aditya college of Agriculture , Beed",83.58
+277,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+278,"College of Agriculture , Naigaon Bazar",82.91
+279,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+280,"College of Pharmacy ,Medha",29.45
+281,"MVP Samaj college of pharmacy , Nashik",27.43
+282,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+283,"Rajarambapu college of pharmacy, Kasegaon",24.17
+284,"College of Pharmacy ,Vadgaon",23.87
+285,"Poona college of Pharmacy , Pune",22.47
+286,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+287,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+288,"College of Pharmacy , Paniv",16.78
+289,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+290,"College of Pharmacy ,Medha",29.45
+291,"MVP Samaj college of pharmacy , Nashik",27.43
+292,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+293,"Rajarambapu college of pharmacy, Kasegaon",24.17
+294,"College of Pharmacy ,Vadgaon",23.87
+295,"Poona college of Pharmacy , Pune",22.47
+296,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+297,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+298,"College of Pharmacy , Paniv",16.78
+299,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+300,"College of Pharmacy ,Medha",29.45
+301,"MVP Samaj college of pharmacy , Nashik",27.43
+302,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+303,"Rajarambapu college of pharmacy, Kasegaon",24.17
+304,"College of Pharmacy ,Vadgaon",23.87
+305,"Poona college of Pharmacy , Pune",22.47
+306,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+307,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+308,"College of Pharmacy , Paniv",16.78
+309,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+310,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+311,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+312,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+313,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+314,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+315,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+316,"Aditya college of Agriculture , Beed",83.58
+317,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+318,"College of Agriculture , Naigaon Bazar",82.91
+319,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+320,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+321,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+322,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+323,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+324,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+325,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+326,"Aditya college of Agriculture , Beed",83.58
+327,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+328,"College of Agriculture , Naigaon Bazar",82.91
+329,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+330,"College of Pharmacy ,Medha",29.45
+331,"MVP Samaj college of pharmacy , Nashik",27.43
+332,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+333,"Rajarambapu college of pharmacy, Kasegaon",24.17
+334,"College of Pharmacy ,Vadgaon",23.87
+335,"Poona college of Pharmacy , Pune",22.47
+336,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+337,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+338,"College of Pharmacy , Paniv",16.78
+339,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+340,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+341,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+342,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+343,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+344,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+345,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+346,"Aditya college of Agriculture , Beed",83.58
+347,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+348,"College of Agriculture , Naigaon Bazar",82.91
+349,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+350,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+351,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+352,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+353,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+354,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+355,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+356,"Aditya college of Agriculture , Beed",83.58
+357,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+358,"College of Agriculture , Naigaon Bazar",82.91
+359,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+360,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+361,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+362,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+363,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+364,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+365,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+366,"Aditya college of Agriculture , Beed",83.58
+367,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+368,"College of Agriculture , Naigaon Bazar",82.91
+369,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+370,"College of Pharmacy ,Medha",29.45
+371,"MVP Samaj college of pharmacy , Nashik",27.43
+372,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+373,"Rajarambapu college of pharmacy, Kasegaon",24.17
+374,"College of Pharmacy ,Vadgaon",23.87
+375,"Poona college of Pharmacy , Pune",22.47
+376,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+377,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+378,"College of Pharmacy , Paniv",16.78
+379,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+380,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+381,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+382,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+383,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+384,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+385,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+386,"Aditya college of Agriculture , Beed",83.58
+387,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+388,"College of Agriculture , Naigaon Bazar",82.91
+389,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+390,"College of Pharmacy ,Medha",29.45
+391,"MVP Samaj college of pharmacy , Nashik",27.43
+392,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+393,"Rajarambapu college of pharmacy, Kasegaon",24.17
+394,"College of Pharmacy ,Vadgaon",23.87
+395,"Poona college of Pharmacy , Pune",22.47
+396,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+397,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+398,"College of Pharmacy , Paniv",16.78
+399,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+400,"College of Pharmacy ,Medha",29.45
+401,"MVP Samaj college of pharmacy , Nashik",27.43
+402,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+403,"Rajarambapu college of pharmacy, Kasegaon",24.17
+404,"College of Pharmacy ,Vadgaon",23.87
+405,"Poona college of Pharmacy , Pune",22.47
+406,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+407,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+408,"College of Pharmacy , Paniv",16.78
+409,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+410,"College of Pharmacy ,Medha",29.45
+411,"MVP Samaj college of pharmacy , Nashik",27.43
+412,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+413,"Rajarambapu college of pharmacy, Kasegaon",24.17
+414,"College of Pharmacy ,Vadgaon",23.87
+415,"Poona college of Pharmacy , Pune",22.47
+416,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+417,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+418,"College of Pharmacy , Paniv",16.78
+419,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+420,"College of Pharmacy ,Medha",29.45
+421,"MVP Samaj college of pharmacy , Nashik",27.43
+422,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+423,"Rajarambapu college of pharmacy, Kasegaon",24.17
+424,"College of Pharmacy ,Vadgaon",23.87
+425,"Poona college of Pharmacy , Pune",22.47
+426,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+427,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+428,"College of Pharmacy , Paniv",16.78
+429,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+430,"College of Pharmacy ,Medha",29.45
+431,"MVP Samaj college of pharmacy , Nashik",27.43
+432,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+433,"Rajarambapu college of pharmacy, Kasegaon",24.17
+434,"College of Pharmacy ,Vadgaon",23.87
+435,"Poona college of Pharmacy , Pune",22.47
+436,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+437,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+438,"College of Pharmacy , Paniv",16.78
+439,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+440,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+441,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+442,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+443,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+444,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+445,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+446,"Aditya college of Agriculture , Beed",83.58
+447,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+448,"College of Agriculture , Naigaon Bazar",82.91
+449,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+450,"College of Pharmacy ,Medha",29.45
+451,"MVP Samaj college of pharmacy , Nashik",27.43
+452,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+453,"Rajarambapu college of pharmacy, Kasegaon",24.17
+454,"College of Pharmacy ,Vadgaon",23.87
+455,"Poona college of Pharmacy , Pune",22.47
+456,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+457,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+458,"College of Pharmacy , Paniv",16.78
+459,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+460,"College of Pharmacy ,Medha",29.45
+461,"MVP Samaj college of pharmacy , Nashik",27.43
+462,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+463,"Rajarambapu college of pharmacy, Kasegaon",24.17
+464,"College of Pharmacy ,Vadgaon",23.87
+465,"Poona college of Pharmacy , Pune",22.47
+466,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+467,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+468,"College of Pharmacy , Paniv",16.78
+469,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+470,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+471,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+472,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+473,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+474,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+475,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+476,"Aditya college of Agriculture , Beed",83.58
+477,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+478,"College of Agriculture , Naigaon Bazar",82.91
+479,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+480,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+481,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+482,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+483,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+484,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+485,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+486,"Aditya college of Agriculture , Beed",83.58
+487,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+488,"College of Agriculture , Naigaon Bazar",82.91
+489,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+490,"College of Pharmacy ,Medha",29.45
+491,"MVP Samaj college of pharmacy , Nashik",27.43
+492,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+493,"Rajarambapu college of pharmacy, Kasegaon",24.17
+494,"College of Pharmacy ,Vadgaon",23.87
+495,"Poona college of Pharmacy , Pune",22.47
+496,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+497,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+498,"College of Pharmacy , Paniv",16.78
+499,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+500,"College of Pharmacy ,Medha",29.45
+501,"MVP Samaj college of pharmacy , Nashik",27.43
+502,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+503,"Rajarambapu college of pharmacy, Kasegaon",24.17
+504,"College of Pharmacy ,Vadgaon",23.87
+505,"Poona college of Pharmacy , Pune",22.47
+506,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+507,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+508,"College of Pharmacy , Paniv",16.78
+509,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+510,"College of Pharmacy ,Medha",29.45
+511,"MVP Samaj college of pharmacy , Nashik",27.43
+512,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+513,"Rajarambapu college of pharmacy, Kasegaon",24.17
+514,"College of Pharmacy ,Vadgaon",23.87
+515,"Poona college of Pharmacy , Pune",22.47
+516,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+517,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+518,"College of Pharmacy , Paniv",16.78
+519,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+520,"College of Pharmacy ,Medha",29.45
+521,"MVP Samaj college of pharmacy , Nashik",27.43
+522,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+523,"Rajarambapu college of pharmacy, Kasegaon",24.17
+524,"College of Pharmacy ,Vadgaon",23.87
+525,"Poona college of Pharmacy , Pune",22.47
+526,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+527,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+528,"College of Pharmacy , Paniv",16.78
+529,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+530,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+531,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+532,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+533,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+534,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+535,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+536,"Aditya college of Agriculture , Beed",83.58
+537,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+538,"College of Agriculture , Naigaon Bazar",82.91
+539,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+540,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+541,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+542,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+543,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+544,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+545,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+546,"Aditya college of Agriculture , Beed",83.58
+547,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+548,"College of Agriculture , Naigaon Bazar",82.91
+549,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+550,"College of Pharmacy ,Medha",29.45
+551,"MVP Samaj college of pharmacy , Nashik",27.43
+552,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+553,"Rajarambapu college of pharmacy, Kasegaon",24.17
+554,"College of Pharmacy ,Vadgaon",23.87
+555,"Poona college of Pharmacy , Pune",22.47
+556,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+557,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+558,"College of Pharmacy , Paniv",16.78
+559,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+560,"College of Pharmacy ,Medha",29.45
+561,"MVP Samaj college of pharmacy , Nashik",27.43
+562,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+563,"Rajarambapu college of pharmacy, Kasegaon",24.17
+564,"College of Pharmacy ,Vadgaon",23.87
+565,"Poona college of Pharmacy , Pune",22.47
+566,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+567,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+568,"College of Pharmacy , Paniv",16.78
+569,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+570,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+571,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+572,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+573,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+574,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+575,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+576,"Aditya college of Agriculture , Beed",83.58
+577,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+578,"College of Agriculture , Naigaon Bazar",82.91
+579,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+580,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+581,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+582,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+583,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+584,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+585,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+586,"Aditya college of Agriculture , Beed",83.58
+587,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+588,"College of Agriculture , Naigaon Bazar",82.91
+589,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+590,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+591,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+592,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+593,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+594,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+595,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+596,"Aditya college of Agriculture , Beed",83.58
+597,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+598,"College of Agriculture , Naigaon Bazar",82.91
+599,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+600,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+601,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+602,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+603,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+604,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+605,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+606,"Aditya college of Agriculture , Beed",83.58
+607,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+608,"College of Agriculture , Naigaon Bazar",82.91
+609,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+610,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+611,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+612,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+613,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+614,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+615,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+616,"Aditya college of Agriculture , Beed",83.58
+617,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+618,"College of Agriculture , Naigaon Bazar",82.91
+619,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+620,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+621,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+622,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+623,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+624,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+625,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+626,"Aditya college of Agriculture , Beed",83.58
+627,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+628,"College of Agriculture , Naigaon Bazar",82.91
+629,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+630,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+631,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+632,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+633,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+634,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+635,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+636,"Aditya college of Agriculture , Beed",83.58
+637,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+638,"College of Agriculture , Naigaon Bazar",82.91
+639,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+640,"College of Pharmacy ,Medha",29.45
+641,"MVP Samaj college of pharmacy , Nashik",27.43
+642,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+643,"Rajarambapu college of pharmacy, Kasegaon",24.17
+644,"College of Pharmacy ,Vadgaon",23.87
+645,"Poona college of Pharmacy , Pune",22.47
+646,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+647,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+648,"College of Pharmacy , Paniv",16.78
+649,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+650,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+651,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+652,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+653,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+654,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+655,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+656,"Aditya college of Agriculture , Beed",83.58
+657,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+658,"College of Agriculture , Naigaon Bazar",82.91
+659,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+660,"College of Pharmacy ,Medha",29.45
+661,"MVP Samaj college of pharmacy , Nashik",27.43
+662,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+663,"Rajarambapu college of pharmacy, Kasegaon",24.17
+664,"College of Pharmacy ,Vadgaon",23.87
+665,"Poona college of Pharmacy , Pune",22.47
+666,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+667,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+668,"College of Pharmacy , Paniv",16.78
+669,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+670,"College of Pharmacy ,Medha",29.45
+671,"MVP Samaj college of pharmacy , Nashik",27.43
+672,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+673,"Rajarambapu college of pharmacy, Kasegaon",24.17
+674,"College of Pharmacy ,Vadgaon",23.87
+675,"Poona college of Pharmacy , Pune",22.47
+676,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+677,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+678,"College of Pharmacy , Paniv",16.78
+679,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+680,"College of Pharmacy ,Medha",29.45
+681,"MVP Samaj college of pharmacy , Nashik",27.43
+682,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+683,"Rajarambapu college of pharmacy, Kasegaon",24.17
+684,"College of Pharmacy ,Vadgaon",23.87
+685,"Poona college of Pharmacy , Pune",22.47
+686,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+687,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+688,"College of Pharmacy , Paniv",16.78
+689,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+690,"College of Pharmacy ,Medha",29.45
+691,"MVP Samaj college of pharmacy , Nashik",27.43
+692,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+693,"Rajarambapu college of pharmacy, Kasegaon",24.17
+694,"College of Pharmacy ,Vadgaon",23.87
+695,"Poona college of Pharmacy , Pune",22.47
+696,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+697,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+698,"College of Pharmacy , Paniv",16.78
+699,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+700,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+701,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+702,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+703,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+704,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+705,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+706,"Aditya college of Agriculture , Beed",83.58
+707,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+708,"College of Agriculture , Naigaon Bazar",82.91
+709,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+710,"College of Pharmacy ,Medha",29.45
+711,"MVP Samaj college of pharmacy , Nashik",27.43
+712,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+713,"Rajarambapu college of pharmacy, Kasegaon",24.17
+714,"College of Pharmacy ,Vadgaon",23.87
+715,"Poona college of Pharmacy , Pune",22.47
+716,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+717,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+718,"College of Pharmacy , Paniv",16.78
+719,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+720,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+721,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+722,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+723,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+724,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+725,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+726,"Aditya college of Agriculture , Beed",83.58
+727,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+728,"College of Agriculture , Naigaon Bazar",82.91
+729,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+730,"College of Pharmacy ,Medha",29.45
+731,"MVP Samaj college of pharmacy , Nashik",27.43
+732,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+733,"Rajarambapu college of pharmacy, Kasegaon",24.17
+734,"College of Pharmacy ,Vadgaon",23.87
+735,"Poona college of Pharmacy , Pune",22.47
+736,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+737,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+738,"College of Pharmacy , Paniv",16.78
+739,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+740,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+741,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+742,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+743,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+744,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+745,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+746,"Aditya college of Agriculture , Beed",83.58
+747,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+748,"College of Agriculture , Naigaon Bazar",82.91
+749,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+750,"College of Pharmacy ,Medha",29.45
+751,"MVP Samaj college of pharmacy , Nashik",27.43
+752,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+753,"Rajarambapu college of pharmacy, Kasegaon",24.17
+754,"College of Pharmacy ,Vadgaon",23.87
+755,"Poona college of Pharmacy , Pune",22.47
+756,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+757,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+758,"College of Pharmacy , Paniv",16.78
+759,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+760,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+761,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+762,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+763,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+764,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+765,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+766,"Aditya college of Agriculture , Beed",83.58
+767,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+768,"College of Agriculture , Naigaon Bazar",82.91
+769,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+770,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+771,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+772,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+773,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+774,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+775,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+776,"Aditya college of Agriculture , Beed",83.58
+777,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+778,"College of Agriculture , Naigaon Bazar",82.91
+779,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+780,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+781,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+782,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+783,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+784,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+785,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+786,"Aditya college of Agriculture , Beed",83.58
+787,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+788,"College of Agriculture , Naigaon Bazar",82.91
+789,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+790,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+791,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+792,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+793,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+794,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+795,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+796,"Aditya college of Agriculture , Beed",83.58
+797,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+798,"College of Agriculture , Naigaon Bazar",82.91
+799,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+800,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+801,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+802,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+803,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+804,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+805,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+806,"Aditya college of Agriculture , Beed",83.58
+807,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+808,"College of Agriculture , Naigaon Bazar",82.91
+809,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+810,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+811,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+812,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+813,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+814,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+815,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+816,"Aditya college of Agriculture , Beed",83.58
+817,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+818,"College of Agriculture , Naigaon Bazar",82.91
+819,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+820,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+821,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+822,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+823,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+824,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+825,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+826,"Aditya college of Agriculture , Beed",83.58
+827,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+828,"College of Agriculture , Naigaon Bazar",82.91
+829,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+830,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+831,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+832,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+833,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+834,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+835,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+836,"Aditya college of Agriculture , Beed",83.58
+837,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+838,"College of Agriculture , Naigaon Bazar",82.91
+839,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+840,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+841,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+842,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+843,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+844,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+845,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+846,"Aditya college of Agriculture , Beed",83.58
+847,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+848,"College of Agriculture , Naigaon Bazar",82.91
+849,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+850,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+851,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+852,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+853,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+854,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+855,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+856,"Aditya college of Agriculture , Beed",83.58
+857,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+858,"College of Agriculture , Naigaon Bazar",82.91
+859,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+860,"College of Pharmacy ,Medha",29.45
+861,"MVP Samaj college of pharmacy , Nashik",27.43
+862,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+863,"Rajarambapu college of pharmacy, Kasegaon",24.17
+864,"College of Pharmacy ,Vadgaon",23.87
+865,"Poona college of Pharmacy , Pune",22.47
+866,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+867,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+868,"College of Pharmacy , Paniv",16.78
+869,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+870,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+871,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+872,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+873,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+874,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+875,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+876,"Aditya college of Agriculture , Beed",83.58
+877,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+878,"College of Agriculture , Naigaon Bazar",82.91
+879,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+880,"College of Pharmacy ,Medha",29.45
+881,"MVP Samaj college of pharmacy , Nashik",27.43
+882,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+883,"Rajarambapu college of pharmacy, Kasegaon",24.17
+884,"College of Pharmacy ,Vadgaon",23.87
+885,"Poona college of Pharmacy , Pune",22.47
+886,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+887,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+888,"College of Pharmacy , Paniv",16.78
+889,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+890,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+891,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+892,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+893,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+894,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+895,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+896,"Aditya college of Agriculture , Beed",83.58
+897,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+898,"College of Agriculture , Naigaon Bazar",82.91
+899,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+900,"College of Pharmacy ,Medha",29.45
+901,"MVP Samaj college of pharmacy , Nashik",27.43
+902,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+903,"Rajarambapu college of pharmacy, Kasegaon",24.17
+904,"College of Pharmacy ,Vadgaon",23.87
+905,"Poona college of Pharmacy , Pune",22.47
+906,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+907,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+908,"College of Pharmacy , Paniv",16.78
+909,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+910,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+911,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+912,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+913,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+914,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+915,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+916,"Aditya college of Agriculture , Beed",83.58
+917,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+918,"College of Agriculture , Naigaon Bazar",82.91
+919,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+920,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+921,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+922,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+923,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+924,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+925,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+926,"Aditya college of Agriculture , Beed",83.58
+927,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+928,"College of Agriculture , Naigaon Bazar",82.91
+929,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+930,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+931,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+932,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+933,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+934,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+935,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+936,"Aditya college of Agriculture , Beed",83.58
+937,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+938,"College of Agriculture , Naigaon Bazar",82.91
+939,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+940,"College of Pharmacy ,Medha",29.45
+941,"MVP Samaj college of pharmacy , Nashik",27.43
+942,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+943,"Rajarambapu college of pharmacy, Kasegaon",24.17
+944,"College of Pharmacy ,Vadgaon",23.87
+945,"Poona college of Pharmacy , Pune",22.47
+946,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+947,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+948,"College of Pharmacy , Paniv",16.78
+949,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+950,"College of Pharmacy ,Medha",29.45
+951,"MVP Samaj college of pharmacy , Nashik",27.43
+952,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+953,"Rajarambapu college of pharmacy, Kasegaon",24.17
+954,"College of Pharmacy ,Vadgaon",23.87
+955,"Poona college of Pharmacy , Pune",22.47
+956,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+957,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+958,"College of Pharmacy , Paniv",16.78
+959,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+960,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+961,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+962,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+963,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+964,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+965,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+966,"Aditya college of Agriculture , Beed",83.58
+967,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+968,"College of Agriculture , Naigaon Bazar",82.91
+969,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+970,"College of Pharmacy ,Medha",29.45
+971,"MVP Samaj college of pharmacy , Nashik",27.43
+972,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+973,"Rajarambapu college of pharmacy, Kasegaon",24.17
+974,"College of Pharmacy ,Vadgaon",23.87
+975,"Poona college of Pharmacy , Pune",22.47
+976,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+977,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+978,"College of Pharmacy , Paniv",16.78
+979,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+980,"College of Pharmacy ,Medha",29.45
+981,"MVP Samaj college of pharmacy , Nashik",27.43
+982,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+983,"Rajarambapu college of pharmacy, Kasegaon",24.17
+984,"College of Pharmacy ,Vadgaon",23.87
+985,"Poona college of Pharmacy , Pune",22.47
+986,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+987,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+988,"College of Pharmacy , Paniv",16.78
+989,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+990,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+991,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+992,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+993,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+994,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+995,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+996,"Aditya college of Agriculture , Beed",83.58
+997,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+998,"College of Agriculture , Naigaon Bazar",82.91
+999,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1000,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1001,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1002,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1003,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1004,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1005,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1006,"Aditya college of Agriculture , Beed",83.58
+1007,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1008,"College of Agriculture , Naigaon Bazar",82.91
+1009,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1010,"College of Pharmacy ,Medha",29.45
+1011,"MVP Samaj college of pharmacy , Nashik",27.43
+1012,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1013,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1014,"College of Pharmacy ,Vadgaon",23.87
+1015,"Poona college of Pharmacy , Pune",22.47
+1016,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1017,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1018,"College of Pharmacy , Paniv",16.78
+1019,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1020,"College of Pharmacy ,Medha",29.45
+1021,"MVP Samaj college of pharmacy , Nashik",27.43
+1022,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1023,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1024,"College of Pharmacy ,Vadgaon",23.87
+1025,"Poona college of Pharmacy , Pune",22.47
+1026,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1027,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1028,"College of Pharmacy , Paniv",16.78
+1029,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1030,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1031,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1032,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1033,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1034,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1035,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1036,"Aditya college of Agriculture , Beed",83.58
+1037,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1038,"College of Agriculture , Naigaon Bazar",82.91
+1039,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1040,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1041,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1042,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1043,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1044,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1045,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1046,"Aditya college of Agriculture , Beed",83.58
+1047,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1048,"College of Agriculture , Naigaon Bazar",82.91
+1049,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1050,"College of Pharmacy ,Medha",29.45
+1051,"MVP Samaj college of pharmacy , Nashik",27.43
+1052,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1053,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1054,"College of Pharmacy ,Vadgaon",23.87
+1055,"Poona college of Pharmacy , Pune",22.47
+1056,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1057,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1058,"College of Pharmacy , Paniv",16.78
+1059,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1060,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1061,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1062,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1063,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1064,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1065,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1066,"Aditya college of Agriculture , Beed",83.58
+1067,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1068,"College of Agriculture , Naigaon Bazar",82.91
+1069,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1070,"College of Pharmacy ,Medha",29.45
+1071,"MVP Samaj college of pharmacy , Nashik",27.43
+1072,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1073,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1074,"College of Pharmacy ,Vadgaon",23.87
+1075,"Poona college of Pharmacy , Pune",22.47
+1076,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1077,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1078,"College of Pharmacy , Paniv",16.78
+1079,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1080,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1081,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1082,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1083,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1084,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1085,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1086,"Aditya college of Agriculture , Beed",83.58
+1087,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1088,"College of Agriculture , Naigaon Bazar",82.91
+1089,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1090,"College of Pharmacy ,Medha",29.45
+1091,"MVP Samaj college of pharmacy , Nashik",27.43
+1092,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1093,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1094,"College of Pharmacy ,Vadgaon",23.87
+1095,"Poona college of Pharmacy , Pune",22.47
+1096,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1097,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1098,"College of Pharmacy , Paniv",16.78
+1099,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1100,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1101,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1102,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1103,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1104,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1105,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1106,"Aditya college of Agriculture , Beed",83.58
+1107,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1108,"College of Agriculture , Naigaon Bazar",82.91
+1109,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1110,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1111,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1112,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1113,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1114,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1115,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1116,"Aditya college of Agriculture , Beed",83.58
+1117,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1118,"College of Agriculture , Naigaon Bazar",82.91
+1119,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1120,"College of Pharmacy ,Medha",29.45
+1121,"MVP Samaj college of pharmacy , Nashik",27.43
+1122,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1123,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1124,"College of Pharmacy ,Vadgaon",23.87
+1125,"Poona college of Pharmacy , Pune",22.47
+1126,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1127,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1128,"College of Pharmacy , Paniv",16.78
+1129,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1130,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1131,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1132,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1133,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1134,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1135,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1136,"Aditya college of Agriculture , Beed",83.58
+1137,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1138,"College of Agriculture , Naigaon Bazar",82.91
+1139,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1140,"College of Pharmacy ,Medha",29.45
+1141,"MVP Samaj college of pharmacy , Nashik",27.43
+1142,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1143,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1144,"College of Pharmacy ,Vadgaon",23.87
+1145,"Poona college of Pharmacy , Pune",22.47
+1146,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1147,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1148,"College of Pharmacy , Paniv",16.78
+1149,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1150,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1151,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1152,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1153,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1154,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1155,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1156,"Aditya college of Agriculture , Beed",83.58
+1157,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1158,"College of Agriculture , Naigaon Bazar",82.91
+1159,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1160,"College of Pharmacy ,Medha",29.45
+1161,"MVP Samaj college of pharmacy , Nashik",27.43
+1162,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1163,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1164,"College of Pharmacy ,Vadgaon",23.87
+1165,"Poona college of Pharmacy , Pune",22.47
+1166,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1167,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1168,"College of Pharmacy , Paniv",16.78
+1169,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1170,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1171,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1172,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1173,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1174,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1175,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1176,"Aditya college of Agriculture , Beed",83.58
+1177,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1178,"College of Agriculture , Naigaon Bazar",82.91
+1179,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1180,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1181,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1182,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1183,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1184,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1185,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1186,"Aditya college of Agriculture , Beed",83.58
+1187,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1188,"College of Agriculture , Naigaon Bazar",82.91
+1189,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1190,"College of Pharmacy ,Medha",29.45
+1191,"MVP Samaj college of pharmacy , Nashik",27.43
+1192,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1193,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1194,"College of Pharmacy ,Vadgaon",23.87
+1195,"Poona college of Pharmacy , Pune",22.47
+1196,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1197,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1198,"College of Pharmacy , Paniv",16.78
+1199,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1200,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1201,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1202,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1203,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1204,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1205,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1206,"Aditya college of Agriculture , Beed",83.58
+1207,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1208,"College of Agriculture , Naigaon Bazar",82.91
+1209,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1210,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1211,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1212,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1213,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1214,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1215,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1216,"Aditya college of Agriculture , Beed",83.58
+1217,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1218,"College of Agriculture , Naigaon Bazar",82.91
+1219,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1220,"College of Pharmacy ,Medha",29.45
+1221,"MVP Samaj college of pharmacy , Nashik",27.43
+1222,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1223,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1224,"College of Pharmacy ,Vadgaon",23.87
+1225,"Poona college of Pharmacy , Pune",22.47
+1226,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1227,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1228,"College of Pharmacy , Paniv",16.78
+1229,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1230,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1231,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1232,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1233,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1234,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1235,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1236,"Aditya college of Agriculture , Beed",83.58
+1237,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1238,"College of Agriculture , Naigaon Bazar",82.91
+1239,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1240,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1241,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1242,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1243,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1244,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1245,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1246,"Aditya college of Agriculture , Beed",83.58
+1247,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1248,"College of Agriculture , Naigaon Bazar",82.91
+1249,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1250,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1251,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1252,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1253,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1254,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1255,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1256,"Aditya college of Agriculture , Beed",83.58
+1257,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1258,"College of Agriculture , Naigaon Bazar",82.91
+1259,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1260,"College of Pharmacy ,Medha",29.45
+1261,"MVP Samaj college of pharmacy , Nashik",27.43
+1262,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1263,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1264,"College of Pharmacy ,Vadgaon",23.87
+1265,"Poona college of Pharmacy , Pune",22.47
+1266,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1267,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1268,"College of Pharmacy , Paniv",16.78
+1269,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1270,"College of Pharmacy ,Medha",29.45
+1271,"MVP Samaj college of pharmacy , Nashik",27.43
+1272,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1273,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1274,"College of Pharmacy ,Vadgaon",23.87
+1275,"Poona college of Pharmacy , Pune",22.47
+1276,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1277,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1278,"College of Pharmacy , Paniv",16.78
+1279,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1280,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1281,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1282,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1283,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1284,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1285,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1286,"Aditya college of Agriculture , Beed",83.58
+1287,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1288,"College of Agriculture , Naigaon Bazar",82.91
+1289,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1290,"College of Pharmacy ,Medha",29.45
+1291,"MVP Samaj college of pharmacy , Nashik",27.43
+1292,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1293,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1294,"College of Pharmacy ,Vadgaon",23.87
+1295,"Poona college of Pharmacy , Pune",22.47
+1296,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1297,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1298,"College of Pharmacy , Paniv",16.78
+1299,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1300,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1301,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1302,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1303,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1304,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1305,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1306,"Aditya college of Agriculture , Beed",83.58
+1307,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1308,"College of Agriculture , Naigaon Bazar",82.91
+1309,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1310,"College of Pharmacy ,Medha",29.45
+1311,"MVP Samaj college of pharmacy , Nashik",27.43
+1312,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1313,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1314,"College of Pharmacy ,Vadgaon",23.87
+1315,"Poona college of Pharmacy , Pune",22.47
+1316,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1317,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1318,"College of Pharmacy , Paniv",16.78
+1319,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1320,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1321,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1322,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1323,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1324,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1325,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1326,"Aditya college of Agriculture , Beed",83.58
+1327,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1328,"College of Agriculture , Naigaon Bazar",82.91
+1329,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1330,"College of Pharmacy ,Medha",29.45
+1331,"MVP Samaj college of pharmacy , Nashik",27.43
+1332,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1333,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1334,"College of Pharmacy ,Vadgaon",23.87
+1335,"Poona college of Pharmacy , Pune",22.47
+1336,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1337,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1338,"College of Pharmacy , Paniv",16.78
+1339,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1340,"College of Pharmacy ,Medha",29.45
+1341,"MVP Samaj college of pharmacy , Nashik",27.43
+1342,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1343,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1344,"College of Pharmacy ,Vadgaon",23.87
+1345,"Poona college of Pharmacy , Pune",22.47
+1346,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1347,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1348,"College of Pharmacy , Paniv",16.78
+1349,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1350,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1351,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1352,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1353,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1354,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1355,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1356,"Aditya college of Agriculture , Beed",83.58
+1357,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1358,"College of Agriculture , Naigaon Bazar",82.91
+1359,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1360,"College of Pharmacy ,Medha",29.45
+1361,"MVP Samaj college of pharmacy , Nashik",27.43
+1362,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1363,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1364,"College of Pharmacy ,Vadgaon",23.87
+1365,"Poona college of Pharmacy , Pune",22.47
+1366,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1367,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1368,"College of Pharmacy , Paniv",16.78
+1369,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1370,"College of Pharmacy ,Medha",29.45
+1371,"MVP Samaj college of pharmacy , Nashik",27.43
+1372,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1373,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1374,"College of Pharmacy ,Vadgaon",23.87
+1375,"Poona college of Pharmacy , Pune",22.47
+1376,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1377,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1378,"College of Pharmacy , Paniv",16.78
+1379,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1380,"College of Pharmacy ,Medha",29.45
+1381,"MVP Samaj college of pharmacy , Nashik",27.43
+1382,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1383,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1384,"College of Pharmacy ,Vadgaon",23.87
+1385,"Poona college of Pharmacy , Pune",22.47
+1386,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1387,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1388,"College of Pharmacy , Paniv",16.78
+1389,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1390,"College of Pharmacy ,Medha",29.45
+1391,"MVP Samaj college of pharmacy , Nashik",27.43
+1392,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1393,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1394,"College of Pharmacy ,Vadgaon",23.87
+1395,"Poona college of Pharmacy , Pune",22.47
+1396,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1397,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1398,"College of Pharmacy , Paniv",16.78
+1399,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1400,"College of Pharmacy ,Medha",29.45
+1401,"MVP Samaj college of pharmacy , Nashik",27.43
+1402,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1403,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1404,"College of Pharmacy ,Vadgaon",23.87
+1405,"Poona college of Pharmacy , Pune",22.47
+1406,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1407,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1408,"College of Pharmacy , Paniv",16.78
+1409,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1410,"College of Pharmacy ,Medha",29.45
+1411,"MVP Samaj college of pharmacy , Nashik",27.43
+1412,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1413,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1414,"College of Pharmacy ,Vadgaon",23.87
+1415,"Poona college of Pharmacy , Pune",22.47
+1416,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1417,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1418,"College of Pharmacy , Paniv",16.78
+1419,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1420,"College of Pharmacy ,Medha",29.45
+1421,"MVP Samaj college of pharmacy , Nashik",27.43
+1422,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1423,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1424,"College of Pharmacy ,Vadgaon",23.87
+1425,"Poona college of Pharmacy , Pune",22.47
+1426,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1427,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1428,"College of Pharmacy , Paniv",16.78
+1429,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1430,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1431,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1432,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1433,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1434,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1435,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1436,"Aditya college of Agriculture , Beed",83.58
+1437,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1438,"College of Agriculture , Naigaon Bazar",82.91
+1439,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1440,"College of Pharmacy ,Medha",29.45
+1441,"MVP Samaj college of pharmacy , Nashik",27.43
+1442,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1443,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1444,"College of Pharmacy ,Vadgaon",23.87
+1445,"Poona college of Pharmacy , Pune",22.47
+1446,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1447,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1448,"College of Pharmacy , Paniv",16.78
+1449,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1450,"College of Pharmacy ,Medha",29.45
+1451,"MVP Samaj college of pharmacy , Nashik",27.43
+1452,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1453,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1454,"College of Pharmacy ,Vadgaon",23.87
+1455,"Poona college of Pharmacy , Pune",22.47
+1456,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1457,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1458,"College of Pharmacy , Paniv",16.78
+1459,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1460,"College of Pharmacy ,Medha",29.45
+1461,"MVP Samaj college of pharmacy , Nashik",27.43
+1462,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1463,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1464,"College of Pharmacy ,Vadgaon",23.87
+1465,"Poona college of Pharmacy , Pune",22.47
+1466,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1467,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1468,"College of Pharmacy , Paniv",16.78
+1469,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1470,"College of Pharmacy ,Medha",29.45
+1471,"MVP Samaj college of pharmacy , Nashik",27.43
+1472,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1473,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1474,"College of Pharmacy ,Vadgaon",23.87
+1475,"Poona college of Pharmacy , Pune",22.47
+1476,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1477,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1478,"College of Pharmacy , Paniv",16.78
+1479,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1480,"College of Pharmacy ,Medha",29.45
+1481,"MVP Samaj college of pharmacy , Nashik",27.43
+1482,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1483,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1484,"College of Pharmacy ,Vadgaon",23.87
+1485,"Poona college of Pharmacy , Pune",22.47
+1486,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1487,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1488,"College of Pharmacy , Paniv",16.78
+1489,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1490,"College of Pharmacy ,Medha",29.45
+1491,"MVP Samaj college of pharmacy , Nashik",27.43
+1492,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1493,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1494,"College of Pharmacy ,Vadgaon",23.87
+1495,"Poona college of Pharmacy , Pune",22.47
+1496,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1497,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1498,"College of Pharmacy , Paniv",16.78
+1499,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1500,"College of Pharmacy ,Medha",29.45
+1501,"MVP Samaj college of pharmacy , Nashik",27.43
+1502,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1503,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1504,"College of Pharmacy ,Vadgaon",23.87
+1505,"Poona college of Pharmacy , Pune",22.47
+1506,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1507,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1508,"College of Pharmacy , Paniv",16.78
+1509,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1510,"College of Pharmacy ,Medha",29.45
+1511,"MVP Samaj college of pharmacy , Nashik",27.43
+1512,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1513,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1514,"College of Pharmacy ,Vadgaon",23.87
+1515,"Poona college of Pharmacy , Pune",22.47
+1516,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1517,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1518,"College of Pharmacy , Paniv",16.78
+1519,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1520,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1521,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1522,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1523,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1524,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1525,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1526,"Aditya college of Agriculture , Beed",83.58
+1527,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1528,"College of Agriculture , Naigaon Bazar",82.91
+1529,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1530,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1531,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1532,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1533,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1534,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1535,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1536,"Aditya college of Agriculture , Beed",83.58
+1537,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1538,"College of Agriculture , Naigaon Bazar",82.91
+1539,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1540,"College of Pharmacy ,Medha",29.45
+1541,"MVP Samaj college of pharmacy , Nashik",27.43
+1542,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1543,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1544,"College of Pharmacy ,Vadgaon",23.87
+1545,"Poona college of Pharmacy , Pune",22.47
+1546,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1547,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1548,"College of Pharmacy , Paniv",16.78
+1549,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1550,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1551,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1552,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1553,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1554,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1555,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1556,"Aditya college of Agriculture , Beed",83.58
+1557,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1558,"College of Agriculture , Naigaon Bazar",82.91
+1559,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1560,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1561,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1562,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1563,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1564,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1565,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1566,"Aditya college of Agriculture , Beed",83.58
+1567,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1568,"College of Agriculture , Naigaon Bazar",82.91
+1569,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1570,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1571,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1572,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1573,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1574,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1575,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1576,"Aditya college of Agriculture , Beed",83.58
+1577,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1578,"College of Agriculture , Naigaon Bazar",82.91
+1579,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1580,"College of Pharmacy ,Medha",29.45
+1581,"MVP Samaj college of pharmacy , Nashik",27.43
+1582,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1583,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1584,"College of Pharmacy ,Vadgaon",23.87
+1585,"Poona college of Pharmacy , Pune",22.47
+1586,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1587,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1588,"College of Pharmacy , Paniv",16.78
+1589,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1590,"College of Pharmacy ,Medha",29.45
+1591,"MVP Samaj college of pharmacy , Nashik",27.43
+1592,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1593,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1594,"College of Pharmacy ,Vadgaon",23.87
+1595,"Poona college of Pharmacy , Pune",22.47
+1596,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1597,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1598,"College of Pharmacy , Paniv",16.78
+1599,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1600,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1601,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1602,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1603,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1604,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1605,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1606,"Aditya college of Agriculture , Beed",83.58
+1607,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1608,"College of Agriculture , Naigaon Bazar",82.91
+1609,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1610,"College of Pharmacy ,Medha",29.45
+1611,"MVP Samaj college of pharmacy , Nashik",27.43
+1612,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1613,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1614,"College of Pharmacy ,Vadgaon",23.87
+1615,"Poona college of Pharmacy , Pune",22.47
+1616,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1617,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1618,"College of Pharmacy , Paniv",16.78
+1619,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1620,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1621,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1622,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1623,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1624,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1625,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1626,"Aditya college of Agriculture , Beed",83.58
+1627,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1628,"College of Agriculture , Naigaon Bazar",82.91
+1629,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1630,"College of Pharmacy ,Medha",29.45
+1631,"MVP Samaj college of pharmacy , Nashik",27.43
+1632,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1633,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1634,"College of Pharmacy ,Vadgaon",23.87
+1635,"Poona college of Pharmacy , Pune",22.47
+1636,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1637,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1638,"College of Pharmacy , Paniv",16.78
+1639,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1640,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1641,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1642,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1643,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1644,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1645,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1646,"Aditya college of Agriculture , Beed",83.58
+1647,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1648,"College of Agriculture , Naigaon Bazar",82.91
+1649,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1650,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1651,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1652,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1653,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1654,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1655,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1656,"Aditya college of Agriculture , Beed",83.58
+1657,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1658,"College of Agriculture , Naigaon Bazar",82.91
+1659,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1660,"College of Pharmacy ,Medha",29.45
+1661,"MVP Samaj college of pharmacy , Nashik",27.43
+1662,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1663,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1664,"College of Pharmacy ,Vadgaon",23.87
+1665,"Poona college of Pharmacy , Pune",22.47
+1666,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1667,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1668,"College of Pharmacy , Paniv",16.78
+1669,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1670,"College of Pharmacy ,Medha",29.45
+1671,"MVP Samaj college of pharmacy , Nashik",27.43
+1672,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1673,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1674,"College of Pharmacy ,Vadgaon",23.87
+1675,"Poona college of Pharmacy , Pune",22.47
+1676,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1677,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1678,"College of Pharmacy , Paniv",16.78
+1679,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1680,"College of Pharmacy ,Medha",29.45
+1681,"MVP Samaj college of pharmacy , Nashik",27.43
+1682,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1683,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1684,"College of Pharmacy ,Vadgaon",23.87
+1685,"Poona college of Pharmacy , Pune",22.47
+1686,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1687,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1688,"College of Pharmacy , Paniv",16.78
+1689,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1690,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1691,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1692,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1693,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1694,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1695,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1696,"Aditya college of Agriculture , Beed",83.58
+1697,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1698,"College of Agriculture , Naigaon Bazar",82.91
+1699,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1700,"College of Pharmacy ,Medha",29.45
+1701,"MVP Samaj college of pharmacy , Nashik",27.43
+1702,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1703,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1704,"College of Pharmacy ,Vadgaon",23.87
+1705,"Poona college of Pharmacy , Pune",22.47
+1706,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1707,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1708,"College of Pharmacy , Paniv",16.78
+1709,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1710,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1711,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1712,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1713,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1714,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1715,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1716,"Aditya college of Agriculture , Beed",83.58
+1717,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1718,"College of Agriculture , Naigaon Bazar",82.91
+1719,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1720,"College of Pharmacy ,Medha",29.45
+1721,"MVP Samaj college of pharmacy , Nashik",27.43
+1722,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1723,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1724,"College of Pharmacy ,Vadgaon",23.87
+1725,"Poona college of Pharmacy , Pune",22.47
+1726,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1727,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1728,"College of Pharmacy , Paniv",16.78
+1729,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1730,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1731,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1732,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1733,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1734,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1735,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1736,"Aditya college of Agriculture , Beed",83.58
+1737,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1738,"College of Agriculture , Naigaon Bazar",82.91
+1739,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1740,"College of Pharmacy ,Medha",29.45
+1741,"MVP Samaj college of pharmacy , Nashik",27.43
+1742,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1743,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1744,"College of Pharmacy ,Vadgaon",23.87
+1745,"Poona college of Pharmacy , Pune",22.47
+1746,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1747,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1748,"College of Pharmacy , Paniv",16.78
+1749,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1750,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1751,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1752,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1753,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1754,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1755,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1756,"Aditya college of Agriculture , Beed",83.58
+1757,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1758,"College of Agriculture , Naigaon Bazar",82.91
+1759,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1760,"College of Pharmacy ,Medha",29.45
+1761,"MVP Samaj college of pharmacy , Nashik",27.43
+1762,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1763,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1764,"College of Pharmacy ,Vadgaon",23.87
+1765,"Poona college of Pharmacy , Pune",22.47
+1766,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1767,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1768,"College of Pharmacy , Paniv",16.78
+1769,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1770,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1771,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1772,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1773,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1774,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1775,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1776,"Aditya college of Agriculture , Beed",83.58
+1777,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1778,"College of Agriculture , Naigaon Bazar",82.91
+1779,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1780,"College of Pharmacy ,Medha",29.45
+1781,"MVP Samaj college of pharmacy , Nashik",27.43
+1782,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1783,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1784,"College of Pharmacy ,Vadgaon",23.87
+1785,"Poona college of Pharmacy , Pune",22.47
+1786,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1787,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1788,"College of Pharmacy , Paniv",16.78
+1789,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1790,"College of Pharmacy ,Medha",29.45
+1791,"MVP Samaj college of pharmacy , Nashik",27.43
+1792,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1793,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1794,"College of Pharmacy ,Vadgaon",23.87
+1795,"Poona college of Pharmacy , Pune",22.47
+1796,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1797,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1798,"College of Pharmacy , Paniv",16.78
+1799,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1800,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1801,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1802,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1803,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1804,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1805,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1806,"Aditya college of Agriculture , Beed",83.58
+1807,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1808,"College of Agriculture , Naigaon Bazar",82.91
+1809,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1810,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1811,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1812,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1813,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1814,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1815,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1816,"Aditya college of Agriculture , Beed",83.58
+1817,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1818,"College of Agriculture , Naigaon Bazar",82.91
+1819,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1820,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1821,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1822,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1823,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1824,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1825,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1826,"Aditya college of Agriculture , Beed",83.58
+1827,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1828,"College of Agriculture , Naigaon Bazar",82.91
+1829,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1830,"College of Pharmacy ,Medha",29.45
+1831,"MVP Samaj college of pharmacy , Nashik",27.43
+1832,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1833,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1834,"College of Pharmacy ,Vadgaon",23.87
+1835,"Poona college of Pharmacy , Pune",22.47
+1836,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1837,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1838,"College of Pharmacy , Paniv",16.78
+1839,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1840,"College of Pharmacy ,Medha",29.45
+1841,"MVP Samaj college of pharmacy , Nashik",27.43
+1842,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1843,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1844,"College of Pharmacy ,Vadgaon",23.87
+1845,"Poona college of Pharmacy , Pune",22.47
+1846,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1847,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1848,"College of Pharmacy , Paniv",16.78
+1849,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1850,"College of Pharmacy ,Medha",29.45
+1851,"MVP Samaj college of pharmacy , Nashik",27.43
+1852,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1853,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1854,"College of Pharmacy ,Vadgaon",23.87
+1855,"Poona college of Pharmacy , Pune",22.47
+1856,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1857,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1858,"College of Pharmacy , Paniv",16.78
+1859,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1860,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1861,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1862,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1863,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1864,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1865,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1866,"Aditya college of Agriculture , Beed",83.58
+1867,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1868,"College of Agriculture , Naigaon Bazar",82.91
+1869,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1870,"College of Pharmacy ,Medha",29.45
+1871,"MVP Samaj college of pharmacy , Nashik",27.43
+1872,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1873,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1874,"College of Pharmacy ,Vadgaon",23.87
+1875,"Poona college of Pharmacy , Pune",22.47
+1876,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1877,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1878,"College of Pharmacy , Paniv",16.78
+1879,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1880,"College of Pharmacy ,Medha",29.45
+1881,"MVP Samaj college of pharmacy , Nashik",27.43
+1882,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1883,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1884,"College of Pharmacy ,Vadgaon",23.87
+1885,"Poona college of Pharmacy , Pune",22.47
+1886,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1887,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1888,"College of Pharmacy , Paniv",16.78
+1889,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1890,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1891,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1892,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1893,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1894,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1895,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1896,"Aditya college of Agriculture , Beed",83.58
+1897,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1898,"College of Agriculture , Naigaon Bazar",82.91
+1899,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1900,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1901,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1902,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1903,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1904,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1905,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1906,"Aditya college of Agriculture , Beed",83.58
+1907,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1908,"College of Agriculture , Naigaon Bazar",82.91
+1909,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1910,"College of Pharmacy ,Medha",29.45
+1911,"MVP Samaj college of pharmacy , Nashik",27.43
+1912,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1913,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1914,"College of Pharmacy ,Vadgaon",23.87
+1915,"Poona college of Pharmacy , Pune",22.47
+1916,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1917,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1918,"College of Pharmacy , Paniv",16.78
+1919,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1920,"College of Pharmacy ,Medha",29.45
+1921,"MVP Samaj college of pharmacy , Nashik",27.43
+1922,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1923,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1924,"College of Pharmacy ,Vadgaon",23.87
+1925,"Poona college of Pharmacy , Pune",22.47
+1926,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1927,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1928,"College of Pharmacy , Paniv",16.78
+1929,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1930,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1931,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1932,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1933,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1934,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1935,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1936,"Aditya college of Agriculture , Beed",83.58
+1937,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1938,"College of Agriculture , Naigaon Bazar",82.91
+1939,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1940,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1941,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1942,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1943,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1944,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1945,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1946,"Aditya college of Agriculture , Beed",83.58
+1947,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1948,"College of Agriculture , Naigaon Bazar",82.91
+1949,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1950,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1951,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1952,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1953,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1954,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1955,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1956,"Aditya college of Agriculture , Beed",83.58
+1957,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1958,"College of Agriculture , Naigaon Bazar",82.91
+1959,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1960,"College of Pharmacy ,Medha",29.45
+1961,"MVP Samaj college of pharmacy , Nashik",27.43
+1962,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1963,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1964,"College of Pharmacy ,Vadgaon",23.87
+1965,"Poona college of Pharmacy , Pune",22.47
+1966,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1967,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1968,"College of Pharmacy , Paniv",16.78
+1969,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1970,"College of Pharmacy ,Medha",29.45
+1971,"MVP Samaj college of pharmacy , Nashik",27.43
+1972,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1973,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1974,"College of Pharmacy ,Vadgaon",23.87
+1975,"Poona college of Pharmacy , Pune",22.47
+1976,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1977,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1978,"College of Pharmacy , Paniv",16.78
+1979,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+1980,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+1981,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+1982,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+1983,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+1984,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+1985,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+1986,"Aditya college of Agriculture , Beed",83.58
+1987,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+1988,"College of Agriculture , Naigaon Bazar",82.91
+1989,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+1990,"College of Pharmacy ,Medha",29.45
+1991,"MVP Samaj college of pharmacy , Nashik",27.43
+1992,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+1993,"Rajarambapu college of pharmacy, Kasegaon",24.17
+1994,"College of Pharmacy ,Vadgaon",23.87
+1995,"Poona college of Pharmacy , Pune",22.47
+1996,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+1997,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+1998,"College of Pharmacy , Paniv",16.78
+1999,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2000,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2001,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2002,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2003,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2004,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2005,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2006,"Aditya college of Agriculture , Beed",83.58
+2007,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2008,"College of Agriculture , Naigaon Bazar",82.91
+2009,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2010,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2011,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2012,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2013,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2014,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2015,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2016,"Aditya college of Agriculture , Beed",83.58
+2017,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2018,"College of Agriculture , Naigaon Bazar",82.91
+2019,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2020,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2021,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2022,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2023,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2024,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2025,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2026,"Aditya college of Agriculture , Beed",83.58
+2027,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2028,"College of Agriculture , Naigaon Bazar",82.91
+2029,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2030,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2031,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2032,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2033,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2034,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2035,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2036,"Aditya college of Agriculture , Beed",83.58
+2037,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2038,"College of Agriculture , Naigaon Bazar",82.91
+2039,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2040,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2041,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2042,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2043,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2044,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2045,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2046,"Aditya college of Agriculture , Beed",83.58
+2047,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2048,"College of Agriculture , Naigaon Bazar",82.91
+2049,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2050,"College of Pharmacy ,Medha",29.45
+2051,"MVP Samaj college of pharmacy , Nashik",27.43
+2052,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2053,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2054,"College of Pharmacy ,Vadgaon",23.87
+2055,"Poona college of Pharmacy , Pune",22.47
+2056,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2057,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2058,"College of Pharmacy , Paniv",16.78
+2059,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2060,"College of Pharmacy ,Medha",29.45
+2061,"MVP Samaj college of pharmacy , Nashik",27.43
+2062,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2063,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2064,"College of Pharmacy ,Vadgaon",23.87
+2065,"Poona college of Pharmacy , Pune",22.47
+2066,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2067,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2068,"College of Pharmacy , Paniv",16.78
+2069,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2070,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2071,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2072,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2073,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2074,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2075,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2076,"Aditya college of Agriculture , Beed",83.58
+2077,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2078,"College of Agriculture , Naigaon Bazar",82.91
+2079,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2080,"College of Pharmacy ,Medha",29.45
+2081,"MVP Samaj college of pharmacy , Nashik",27.43
+2082,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2083,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2084,"College of Pharmacy ,Vadgaon",23.87
+2085,"Poona college of Pharmacy , Pune",22.47
+2086,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2087,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2088,"College of Pharmacy , Paniv",16.78
+2089,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2090,"College of Pharmacy ,Medha",29.45
+2091,"MVP Samaj college of pharmacy , Nashik",27.43
+2092,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2093,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2094,"College of Pharmacy ,Vadgaon",23.87
+2095,"Poona college of Pharmacy , Pune",22.47
+2096,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2097,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2098,"College of Pharmacy , Paniv",16.78
+2099,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2100,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2101,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2102,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2103,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2104,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2105,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2106,"Aditya college of Agriculture , Beed",83.58
+2107,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2108,"College of Agriculture , Naigaon Bazar",82.91
+2109,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2110,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2111,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2112,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2113,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2114,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2115,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2116,"Aditya college of Agriculture , Beed",83.58
+2117,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2118,"College of Agriculture , Naigaon Bazar",82.91
+2119,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2120,"College of Pharmacy ,Medha",29.45
+2121,"MVP Samaj college of pharmacy , Nashik",27.43
+2122,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2123,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2124,"College of Pharmacy ,Vadgaon",23.87
+2125,"Poona college of Pharmacy , Pune",22.47
+2126,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2127,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2128,"College of Pharmacy , Paniv",16.78
+2129,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2130,"College of Pharmacy ,Medha",29.45
+2131,"MVP Samaj college of pharmacy , Nashik",27.43
+2132,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2133,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2134,"College of Pharmacy ,Vadgaon",23.87
+2135,"Poona college of Pharmacy , Pune",22.47
+2136,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2137,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2138,"College of Pharmacy , Paniv",16.78
+2139,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2140,"College of Pharmacy ,Medha",29.45
+2141,"MVP Samaj college of pharmacy , Nashik",27.43
+2142,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2143,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2144,"College of Pharmacy ,Vadgaon",23.87
+2145,"Poona college of Pharmacy , Pune",22.47
+2146,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2147,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2148,"College of Pharmacy , Paniv",16.78
+2149,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2150,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2151,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2152,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2153,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2154,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2155,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2156,"Aditya college of Agriculture , Beed",83.58
+2157,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2158,"College of Agriculture , Naigaon Bazar",82.91
+2159,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2160,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2161,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2162,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2163,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2164,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2165,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2166,"Aditya college of Agriculture , Beed",83.58
+2167,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2168,"College of Agriculture , Naigaon Bazar",82.91
+2169,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2170,"College of Pharmacy ,Medha",29.45
+2171,"MVP Samaj college of pharmacy , Nashik",27.43
+2172,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2173,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2174,"College of Pharmacy ,Vadgaon",23.87
+2175,"Poona college of Pharmacy , Pune",22.47
+2176,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2177,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2178,"College of Pharmacy , Paniv",16.78
+2179,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2180,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2181,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2182,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2183,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2184,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2185,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2186,"Aditya college of Agriculture , Beed",83.58
+2187,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2188,"College of Agriculture , Naigaon Bazar",82.91
+2189,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2190,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2191,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2192,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2193,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2194,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2195,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2196,"Aditya college of Agriculture , Beed",83.58
+2197,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2198,"College of Agriculture , Naigaon Bazar",82.91
+2199,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2200,"College of Pharmacy ,Medha",29.45
+2201,"MVP Samaj college of pharmacy , Nashik",27.43
+2202,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2203,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2204,"College of Pharmacy ,Vadgaon",23.87
+2205,"Poona college of Pharmacy , Pune",22.47
+2206,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2207,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2208,"College of Pharmacy , Paniv",16.78
+2209,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2210,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2211,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2212,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2213,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2214,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2215,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2216,"Aditya college of Agriculture , Beed",83.58
+2217,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2218,"College of Agriculture , Naigaon Bazar",82.91
+2219,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2220,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2221,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2222,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2223,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2224,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2225,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2226,"Aditya college of Agriculture , Beed",83.58
+2227,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2228,"College of Agriculture , Naigaon Bazar",82.91
+2229,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2230,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2231,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2232,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2233,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2234,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2235,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2236,"Aditya college of Agriculture , Beed",83.58
+2237,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2238,"College of Agriculture , Naigaon Bazar",82.91
+2239,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2240,"College of Pharmacy ,Medha",29.45
+2241,"MVP Samaj college of pharmacy , Nashik",27.43
+2242,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2243,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2244,"College of Pharmacy ,Vadgaon",23.87
+2245,"Poona college of Pharmacy , Pune",22.47
+2246,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2247,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2248,"College of Pharmacy , Paniv",16.78
+2249,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2250,"College of Pharmacy ,Medha",29.45
+2251,"MVP Samaj college of pharmacy , Nashik",27.43
+2252,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2253,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2254,"College of Pharmacy ,Vadgaon",23.87
+2255,"Poona college of Pharmacy , Pune",22.47
+2256,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2257,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2258,"College of Pharmacy , Paniv",16.78
+2259,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2260,"College of Pharmacy ,Medha",29.45
+2261,"MVP Samaj college of pharmacy , Nashik",27.43
+2262,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2263,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2264,"College of Pharmacy ,Vadgaon",23.87
+2265,"Poona college of Pharmacy , Pune",22.47
+2266,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2267,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2268,"College of Pharmacy , Paniv",16.78
+2269,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2270,"College of Pharmacy ,Medha",29.45
+2271,"MVP Samaj college of pharmacy , Nashik",27.43
+2272,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2273,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2274,"College of Pharmacy ,Vadgaon",23.87
+2275,"Poona college of Pharmacy , Pune",22.47
+2276,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2277,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2278,"College of Pharmacy , Paniv",16.78
+2279,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2280,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2281,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2282,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2283,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2284,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2285,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2286,"Aditya college of Agriculture , Beed",83.58
+2287,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2288,"College of Agriculture , Naigaon Bazar",82.91
+2289,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2290,"College of Pharmacy ,Medha",29.45
+2291,"MVP Samaj college of pharmacy , Nashik",27.43
+2292,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2293,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2294,"College of Pharmacy ,Vadgaon",23.87
+2295,"Poona college of Pharmacy , Pune",22.47
+2296,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2297,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2298,"College of Pharmacy , Paniv",16.78
+2299,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2300,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2301,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2302,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2303,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2304,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2305,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2306,"Aditya college of Agriculture , Beed",83.58
+2307,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2308,"College of Agriculture , Naigaon Bazar",82.91
+2309,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2310,"College of Pharmacy ,Medha",29.45
+2311,"MVP Samaj college of pharmacy , Nashik",27.43
+2312,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2313,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2314,"College of Pharmacy ,Vadgaon",23.87
+2315,"Poona college of Pharmacy , Pune",22.47
+2316,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2317,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2318,"College of Pharmacy , Paniv",16.78
+2319,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2320,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2321,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2322,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2323,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2324,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2325,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2326,"Aditya college of Agriculture , Beed",83.58
+2327,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2328,"College of Agriculture , Naigaon Bazar",82.91
+2329,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2330,"College of Pharmacy ,Medha",29.45
+2331,"MVP Samaj college of pharmacy , Nashik",27.43
+2332,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2333,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2334,"College of Pharmacy ,Vadgaon",23.87
+2335,"Poona college of Pharmacy , Pune",22.47
+2336,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2337,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2338,"College of Pharmacy , Paniv",16.78
+2339,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2340,"College of Pharmacy ,Medha",29.45
+2341,"MVP Samaj college of pharmacy , Nashik",27.43
+2342,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2343,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2344,"College of Pharmacy ,Vadgaon",23.87
+2345,"Poona college of Pharmacy , Pune",22.47
+2346,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2347,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2348,"College of Pharmacy , Paniv",16.78
+2349,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2350,"College of Pharmacy ,Medha",29.45
+2351,"MVP Samaj college of pharmacy , Nashik",27.43
+2352,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2353,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2354,"College of Pharmacy ,Vadgaon",23.87
+2355,"Poona college of Pharmacy , Pune",22.47
+2356,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2357,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2358,"College of Pharmacy , Paniv",16.78
+2359,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2360,"College of Pharmacy ,Medha",29.45
+2361,"MVP Samaj college of pharmacy , Nashik",27.43
+2362,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2363,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2364,"College of Pharmacy ,Vadgaon",23.87
+2365,"Poona college of Pharmacy , Pune",22.47
+2366,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2367,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2368,"College of Pharmacy , Paniv",16.78
+2369,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2370,"College of Pharmacy ,Medha",29.45
+2371,"MVP Samaj college of pharmacy , Nashik",27.43
+2372,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2373,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2374,"College of Pharmacy ,Vadgaon",23.87
+2375,"Poona college of Pharmacy , Pune",22.47
+2376,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2377,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2378,"College of Pharmacy , Paniv",16.78
+2379,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2380,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2381,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2382,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2383,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2384,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2385,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2386,"Aditya college of Agriculture , Beed",83.58
+2387,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2388,"College of Agriculture , Naigaon Bazar",82.91
+2389,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2390,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2391,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2392,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2393,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2394,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2395,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2396,"Aditya college of Agriculture , Beed",83.58
+2397,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2398,"College of Agriculture , Naigaon Bazar",82.91
+2399,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2400,"College of Pharmacy ,Medha",29.45
+2401,"MVP Samaj college of pharmacy , Nashik",27.43
+2402,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2403,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2404,"College of Pharmacy ,Vadgaon",23.87
+2405,"Poona college of Pharmacy , Pune",22.47
+2406,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2407,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2408,"College of Pharmacy , Paniv",16.78
+2409,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2410,"College of Pharmacy ,Medha",29.45
+2411,"MVP Samaj college of pharmacy , Nashik",27.43
+2412,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2413,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2414,"College of Pharmacy ,Vadgaon",23.87
+2415,"Poona college of Pharmacy , Pune",22.47
+2416,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2417,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2418,"College of Pharmacy , Paniv",16.78
+2419,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2420,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2421,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2422,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2423,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2424,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2425,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2426,"Aditya college of Agriculture , Beed",83.58
+2427,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2428,"College of Agriculture , Naigaon Bazar",82.91
+2429,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2430,"College of Pharmacy ,Medha",29.45
+2431,"MVP Samaj college of pharmacy , Nashik",27.43
+2432,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2433,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2434,"College of Pharmacy ,Vadgaon",23.87
+2435,"Poona college of Pharmacy , Pune",22.47
+2436,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2437,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2438,"College of Pharmacy , Paniv",16.78
+2439,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2440,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2441,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2442,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2443,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2444,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2445,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2446,"Aditya college of Agriculture , Beed",83.58
+2447,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2448,"College of Agriculture , Naigaon Bazar",82.91
+2449,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2450,"College of Pharmacy ,Medha",29.45
+2451,"MVP Samaj college of pharmacy , Nashik",27.43
+2452,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2453,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2454,"College of Pharmacy ,Vadgaon",23.87
+2455,"Poona college of Pharmacy , Pune",22.47
+2456,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2457,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2458,"College of Pharmacy , Paniv",16.78
+2459,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2460,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2461,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2462,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2463,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2464,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2465,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2466,"Aditya college of Agriculture , Beed",83.58
+2467,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2468,"College of Agriculture , Naigaon Bazar",82.91
+2469,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2470,"College of Pharmacy ,Medha",29.45
+2471,"MVP Samaj college of pharmacy , Nashik",27.43
+2472,"Bharati Vidyapeeth college of pharmacy , Kolhapur",25.19
+2473,"Rajarambapu college of pharmacy, Kasegaon",24.17
+2474,"College of Pharmacy ,Vadgaon",23.87
+2475,"Poona college of Pharmacy , Pune",22.47
+2476,"JBSPM Institute college of pharmacy, Aurangabad",21.78
+2477,"Dr. R. G. Bhoyar Institute of Pharmacy , Beed",19.56
+2478,"College of Pharmacy , Paniv",16.78
+2479,"Yashwantrao chavan college of pharmacy, Ahmednagar",15.69
+2480,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2481,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2482,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2483,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2484,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2485,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2486,"Aditya college of Agriculture , Beed",83.58
+2487,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2488,"College of Agriculture , Naigaon Bazar",82.91
+2489,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
+2490,"Swatantra Vir Ganpatrao Ingle college of Agriculture , Buldhana",85.84
+2491,"Ramakrishna Bajaj College of Agriculture , Wardha",85.63
+2492,"Dr. Rajendra Gode College of Agriculture , Buldhana",85.4
+2493,"Shri. Sant Shankar Maharaj College of Agriculture , Amravati",84.93
+2494,"Late R.G. Deshmukh college of Agriculture , Tiwsa , Amravati",84.59
+2495,"Shri. Samarth college of Agriculture , Deoulgaon Raja, Buldhana",84.22
+2496,"Aditya college of Agriculture , Beed",83.58
+2497,"Dadasaheb Patil College of Agriculture , Aurangabad",83.47
+2498,"College of Agriculture , Naigaon Bazar",82.91
+2499,"Late Ragiv Gandhi college of Agriculture , Parbhani",81.92
