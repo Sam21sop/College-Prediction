@@ -1,12 +1,7 @@
-import mongoose, { mongo } from "mongoose";
-import dotenv from 'dotenv';
-
-dotenv.config()
-
-const baseURL = process.env.DB_URL
+import mongoose from "mongoose";
 
 // function to connect mongodb using mongoose
-export const connectUsingMongoose = async () => {
+const connectToDB = async (baseURL) => {
     try {
         await mongoose.connect(baseURL);
         console.log("MongoDB Connected using Mongoose");
@@ -16,3 +11,5 @@ export const connectUsingMongoose = async () => {
     }
 };
 
+
+export default connectToDB;
