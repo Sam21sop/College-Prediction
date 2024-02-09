@@ -1,31 +1,13 @@
 // Importing the Express module
 import express from 'express';
-import path from 'path';
+import studentRouter from './NodeJs-Code/routes/studentRoutes.js';
 
 
 // Creating an instance of the Express application
 const server = express();
 
-// set EJS as the view engine
-server.set('view engine', 'ejs');
+server.use(express.json());
 
-// Specify directory path
-const dirPath = path.resolve(path.join('College-Prediction', 'src', 'views'));
-
-// set the directory name
-server.set('views', dirPath);
-
-// Define a route
-server.get('/', (req, res) => {
-    const data = {
-        title: "College Prediction",
-        // body: "main"
-    };
-
-    // render index template
-    res.render('index', data);
-});
-
-
+server.use('/api/student', studentRouter)
 
 export default server;
