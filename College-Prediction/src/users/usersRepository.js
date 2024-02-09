@@ -30,5 +30,16 @@ export default class UserRepository{
         catch (error) {
             console.log(error);
         }
+    };
+
+    async resetPassword(userID, hashedPassword){
+        try {
+            let user = await UserModel.findById(userID)
+            user.password = hashedPassword;
+            user.save()
+        } 
+        catch (error) {
+            console.log(error);    
+        }
     }
 }

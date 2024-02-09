@@ -2,6 +2,8 @@ import UserRepository from "./usersRepository.js";
 import bcrypt from 'bcrypt';
 import { UserModel } from "./usersSchema.js";
 import  jwt from "jsonwebtoken";
+import dotenv from 'dotenv';
+dotenv.config();
 
 
 export default class UserController{
@@ -32,7 +34,7 @@ export default class UserController{
                     // 3. create token
                     const token = jwt.sign(
                         { userID: user._id, email: user.email },
-                        "072a0bf57e976e1f34578c9bf048984fd0499d1acba285d33eabd6de6472e950467438801afdc0e70d2f36b1ef7284b640070cab2621ede2dfbd7f154aa07cd8",
+                        "072a0bf57e976e1f34578c9bf048984fd0f36b1ef7284b640070cab2621ede2dfbd7f154aa07cd8",
                         {expiresIn: '1h'}
                     );
                     // 4. send token
@@ -46,6 +48,28 @@ export default class UserController{
             console.log(error);
         }
     };
+
+
+    async resetPassword(req, res, next){
+        // collect new password from body
+        const newPassword = req.body;
+
+        // hashed new password
+        const hashedPassword = await bcrypt.sign(newPassword, 10);
+        
+        // get the useid
+        const userID = req.userID;
+
+        try {
+            await this.userRepository.resetPassword(userID, hashedPassword);
+            res.status(200).send("Password updated!")
+        } 
+        catch (error) {
+            console.log(error);
+            console.log("error psassing to next middleware!");
+            next(error);
+        }
+    }
 
 
 };
